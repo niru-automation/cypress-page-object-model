@@ -1,0 +1,14 @@
+{
+    "landingPageOR":{
+        "login_username_TextField": "#user-name",
+        "login_password_TextField": "#password",
+        "login_button": "#login-button"
+    },
+    "inventoryPageOR":{
+        "logo":"div.app_logo",
+        "item_name_Label": "div.inventory_item_name",
+        "item_SiblingDivComponent": "+div",
+        "Item_AddToCart_Button": "ADD TO CART",
+        "Item_Remove_Button": "REMOVE"
+    }
+}
